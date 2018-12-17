@@ -5,4 +5,4 @@
 ## 开发工具
 jdk1.8,eclispe,exe4j,excel
 ## 使用
-运行ExcelPath.java,选择data.xls文件,选择通道，确认之后返回动态图表。
+导入Chart项目，运行ExcelPath.java,选择data.xls文件,选择通道，确认之后返回动态图表。
